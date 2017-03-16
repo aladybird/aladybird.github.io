@@ -1,0 +1,39 @@
+[articles]
+    read_more = "Read More"
+    words = "words"
+    readingtime = "minute read"
+    share = "Share"
+    comments = "Comments"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "←"
+    newer = "→"
+
+[search]
+    placeholder = "Search"
+
+[pagination]
+    previous = "Previous"
+    next = "Next"
+
+[profile]
+    follow_button = "Like Us"
+    tags = "Tags"
+    posts = "Posts"
+
+[page_not_found]
+    title = "Error 404 - Page NOT Found"
+    subtitle = "The content you're looking for doesn't seem to exist."
+
+[widgets.categories]
+    title = "Categories"
+
+[widgets.recent_articles]
+    title = "Recents"
+
+[widgets.tag_cloud]
+    title = "Tag cloud"
+
+[widgets.tags]
+    title = "Tags"
